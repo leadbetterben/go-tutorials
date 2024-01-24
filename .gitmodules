@@ -1,0 +1,6 @@
+[submodule "workspace/--force"]
+	path = workspace/--force
+	url = https://go.googlesource.com/example
+[submodule "workspace/example"]
+	path = workspace/example
+	url = https://go.googlesource.com/example
