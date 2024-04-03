@@ -1,5 +1,5 @@
 Hello world!
 
-Removing my old edits
+Does the caching of templates work?
 
-It worked!
+Yes it does!
