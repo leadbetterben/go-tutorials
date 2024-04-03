@@ -1,5 +1,0 @@
-Hello world!
-
-I am editing this file...
-
-The edit was successful
