@@ -1,5 +1,3 @@
 Hello world!
 
-Does the caching of templates work?
-
-Yes it does!
+Preventing security issues now
