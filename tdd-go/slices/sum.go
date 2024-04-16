@@ -1,6 +1,6 @@
 package main
 
-func Reduce[T any](a []T, f func(T, T) T, initial T) T {
+func Reduce[T1, T2 any](a []T1, f func(T2, T1) T2, initial T2) T2 {
 	var result = initial
 	for _, v := range a {
 		result = f(result, v)
